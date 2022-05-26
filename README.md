@@ -1,6 +1,6 @@
 👀 Hi, I’m Peter, I've recently embarked on a new career path in data analytics, and this is my portfolio page to showcase my work.
 
-⏳ I only started building this page on the 24th May 2022, so there is only a small amount of content at the moment. I'll be adding more content in the near future as I try to showcase the various technical skills I've developed over the last few months.
+⏳ I created this page on the 24th May 2022, so there's only a small amount of content at the moment. I'll be adding more content in the near future as I try to showcase the various technical skills I've developed over the last few months.
 
 🌱 My first project is a case study to complete the "Google Data Analytics Professional Certificate", please check out the following links for details...
 
