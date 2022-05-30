@@ -7,7 +7,8 @@
   2) This presentation provides an overview of the project including: Business Task, Key Observations, Conclusions & Next Steps and Appendix
 [Case Study - Cyclistic Presentation.pptx](https://github.com/pj2911/pj2911/files/8771109/Case.Study.-.Cyclistic.Presentation.pptx) or as a pdf if you prefer [Case Study - Cyclistic Presentation.pdf](https://github.com/pj2911/pj2911/files/8771209/Case.Study.-.Cyclistic.Presentation.pdf)
 
-📈Here is another example of some more reports I've created in Power BI. These are mockups of sales dashbaords based on fictictous data: [PBI Report Sample.pdf](https://github.com/pj2911/pj2911/files/8797424/PBI.Report.Sample.pdf)
+📈Here is another example of some more reports I've created in Power BI. These are mockups of sales dashbaords based on fictictous data: [PBI Report Sample.pdf](https://github.com/pj2911/pj2911/files/8797487/PBI.Report.Sample.pdf)
+
 
 
 <!---
