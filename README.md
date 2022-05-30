@@ -1,4 +1,6 @@
-👀 Hi, I’m Peter. After many years working in the public and private sectors I recently took the opportunity to embark on a career path in data analytics. I've always enjoyed working with data (largely in Excel) but at the same time I knew that there was a much wider world of possibilities with data that I wasn't tapping into. When the opportunity came along to take a redundancy package and tackle a new challenge I jumped at the chance. I've spent the last few months studying Power BI, Azure, SQL, R and Tableau and this is my portfolio page to showcase my work.
+👀 Hi, I’m Peter. 
+
+After many years working in the public and private sectors I recently took the opportunity to embark on a career path in data analytics. I've always enjoyed working with data (largely in Excel) but at the same time I knew that there was a much wider world of possibilities with data that I wasn't tapping into. When the opportunity came along to take a redundancy package and tackle a new challenge I jumped at the chance. I've spent the last few months studying Power BI, Azure, SQL, R and Tableau and this is my portfolio page to showcase my work.
 
 ⏳ I created this page on the 24th May 2022, so there's only a small amount of content at the moment. I'll be adding more content in the near future as I try to showcase the various technical skills I've developed over the last few months.
 
