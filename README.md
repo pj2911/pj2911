@@ -11,7 +11,7 @@ After many years working in the public and private sectors I recently took the o
 
 📈Here is another example of some more reports I've created in Power BI. These are mockups of sales dashbaords based on fictictous data: [PBI Report Sample.pdf](https://github.com/pj2911/pj2911/files/8797487/PBI.Report.Sample.pdf)
 
-
+My first published tableau story can be found here https://public.tableau.com/app/profile/peter.joyce6865.
 
 <!---
 pj2911/pj2911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
